@@ -8,8 +8,8 @@ const axiosInterceptor = () => {
   const { navigate } = useNavigate();
 
   const instance = axios.create({
-    // baseURL: 'http://45.77.247.238:4000/api/',
-    baseURL: 'http://localhost:4000/api/',
+    baseURL: 'http://45.77.247.238:4000/api/',
+    // baseURL: 'http://localhost:4000/api/',
 
   });
 
