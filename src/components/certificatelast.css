@@ -1,0 +1,8 @@
+
+.last-cer{
+  background-image: url("/public/certificatelastfinal.png");
+  background-repeat: no-repeat;
+  background-size: cover;  
+  background-position: center center;
+  position: relative;
+} 
